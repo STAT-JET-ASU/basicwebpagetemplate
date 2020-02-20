@@ -1,5 +1,33 @@
 ---
-title: "John Doe's Resume"
+# title: "Resume"
+# author: "Ashley Holliday"
+# output: html_document
 ---
+##Ashley Holliday
 
-Resume content.
+
+ashley.p.holliday@gmail.com |
+817-734-7346
+
+###Education
+* Appalachian State University - Boone, NC
+  * BS in Mathematics - Concentration in Business (Dec 2019)
+    * Minor in Statistics
+    * Minor in Dance
+        
+
+###Experience
+* Food and Beverage Manager - Blowing Rock Country Club - 2016-present
+    * staff relations - hiring, scheduling, and communication with all waitstaff
+    * beverage coordination - ordering and organization of all beverages used throughout club
+    * floor management - oversight of main restaurant, specializing in guest relations and staff coordination
+* Personal Assistant to CEO - Alpha Custom Extrusions - Summer 2015 and 2016
+
+
+#### Computer Training
+##### Proficient in:
+* RStudio
+* Microsoft Excel
+* Maplesoft
+* Github
+* Microsoft Office

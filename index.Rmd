@@ -1,5 +1,15 @@
 ---
-title: "My Website"
+# title: "Key Knowledge and Skills"
+# author: "Ashley Holliday"
+# output: html_document
+---
+---
+title: "Welcome"
 ---
 
-Hello, Website!
+----------------------------------------------------
+
+Thank you for visiting my site. Here you will find my professional portfolio. Included are my resume, a brief section of an interview, and a few pesonal projects demonstrating the scope of my work.
+
+
+
